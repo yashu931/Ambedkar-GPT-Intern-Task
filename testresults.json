@@ -1,0 +1,1508 @@
+{
+  "small": [
+    {
+      "question_id": 1,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech1.txt",
+        "speech1.txt",
+        "speech1.txt"
+      ],
+      "answer": "According to Document 1, the real remedy for the caste system lies in the abolition of belief in the sanctity of the shastras. The author argues that as long as people believe in the authority of these ancient texts, they will not be able to get rid of caste. Therefore, the overthrowing of this authority is necessary to eradicate caste.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 2,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech2.txt",
+        "speech2.txt",
+        "ambedkar.txt"
+      ],
+      "answer": "In Document 2, Ambedkar states that the Buddha was against ritualism and condemned the performance of sacrifices. He also mentions that the Buddha rejected the authority of the Vedas, which suggests a departure from traditional religious practices centered on rituals and ceremonies.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 3,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech3.txt",
+        "ambedkar.txt",
+        "speech3.txt"
+      ],
+      "answer": "In Document 3, Dr. B.R. Ambedkar mentions that there are two kinds of constitutional remedies for the protection of minorities. First, fundamental rights which are justiciable and second, directive principles which are not justiciable.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 4,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech4.txt",
+        "speech6.txt"
+      ],
+      "answer": "In Document 4, Ambedkar describes his own personal experiences of stigma and humiliation due to being born into the untouchable community. He recalls instances such as not being allowed to drink water from public wells, and being denied the right to education and property. He also mentions that untouchables were often condemned to do menial work.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 5,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech5.txt",
+        "speech5.txt",
+        "ambedkar.txt"
+      ],
+      "answer": "In Document 5, Ambedkar believes that the creation of Pakistan is inevitable due to the Muslims feeling a consciousness of being a separate nation and their desire for self-rule. He argues that they cannot live under Hindu domination and need a separate state where they can develop according to their own culture and civilization. Ambedkar also states that the unity of India is artificial, having been created by the British, and before them, India was never united. He suggests that the partition of India is the only solution to the Hindu-Muslim problem.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 6,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech6.txt",
+        "speech6.txt"
+      ],
+      "answer": "In Document 6, Ambedkar refers to 'the untouchables' as 'broken men'. He calls them this because they were historically subjugated and oppressed by the invading Aryans, denied basic human rights such as education and property, and forced to live outside the village and perform menial work. The term 'broken men' emphasizes their marginalized status in Indian society at that time.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 7,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech4.txt",
+        "speech6.txt"
+      ],
+      "answer": "In Document 4, Ambedkar emphasizes his personal struggle for education despite facing numerous challenges such as lack of resources and social discrimination. He highlights how education provided him the strength to fight against inequality.\n\nIn Document 6, Ambedkar discusses the denial of education rights for untouchables and other marginalized communities. He argues that the caste system is responsible for their oppression, which includes being denied access to education and property, and being forced into menial labor.\n\nBoth documents highlight the importance of education in overcoming social inequality. However, while Document 4 focuses on Ambedkar's personal struggle for education, Document 6 discusses the systematic denial of education rights to specific communities due to the caste system. Additionally, while Document 4 does not explicitly state a solution, Document 6 proposes that the annihilation of caste is necessary to solve the problem of untouchability and provide equal access to education for all.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 8,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech1.txt",
+        "speech1.txt",
+        "ambedkar.txt"
+      ],
+      "answer": "According to Documents 1 and 3, Ambedkar's concept of an ideal society involves liberty, equality, and fraternity as its fundamental principles. He emphasizes the importance of freedom from traditional constraints and discrimination based on caste. To realize this ideal, he advocates for the abolition of caste.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 9,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech3.txt",
+        "speech1.txt"
+      ],
+      "answer": "In Documents 3 and 6, Ambedkar relates political power to social change by emphasizing that political democracy cannot last without a base of social democracy. He argues that the Constitution must provide for economic democracy as well as political democracy. Ambedkar also suggests that the problem of caste is not just a problem of social reform but a problem of overthrowing the authority of the shastras, which are ancient Hindu scriptures that uphold the caste system. By advocating for the abolition of the caste system and the rejection of its underlying beliefs, Ambedkar envisions a society where political power can be used to bring about meaningful social change.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 10,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech2.txt",
+        "speech1.txt"
+      ],
+      "answer": "The text does not provide information about Dr. B.R. Ambedkar's favorite food. The provided excerpt mainly focuses on his philosophical and societal views, particularly regarding caste abolition.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 11,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech6.txt",
+        "speech4.txt"
+      ],
+      "answer": "Dr. B.R. Ambedkar did not make a confirmed visit to the United States during his lifetime. His focus was primarily on social reforms and political activism within India, particularly advocating for the rights of the marginalized castes, including Dalits (previously known as untouchables). If there were any reports or records of Ambedkar visiting the United States, they might have been posthumously discovered, but such a visit during his lifetime is not widely documented.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 12,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech2.txt",
+        "speech2.txt",
+        "ambedkar.txt"
+      ],
+      "answer": "According to Document 2, the Dhmma is a set of teachings centered around avoiding evil, doing good, and purifying the mind. It is a social code of moral conduct for society, focusing on man and his relationships. The Buddha's Dhamma, as described in this document, is seen as the only religion that can create a society of free and equal men.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 13,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech1.txt",
+        "speech1.txt"
+      ],
+      "answer": "In Document 1, Ambedkar uses the analogy of a gardener pruning a tree without attacking its roots to describe social reform. The gardener is constantly working on the leaves and branches (symbolizing ongoing social reform efforts), but the real enemy is the belief in the shastras (the roots), which he suggests must be overthrown to address the problem of caste.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 14,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech3.txt",
+        "speech3.txt"
+      ],
+      "answer": "In Document 3, Ambedkar mentions the following fundamental rights:\n\n1. Right against exploitation (Article 23 and 24)\n2. Right to freedom (Article 19-20)\n3. The right to equality (presumably Article 14-18)",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 15,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech6.txt",
+        "speech4.txt"
+      ],
+      "answer": "According to Document 4, Dr. B.R. Ambedkar struggled for education by sitting outside classrooms and studying under street lights when he had no money for kerosene, demonstrating his determination to receive an education despite facing challenges due to societal discrimination.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 16,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech5.txt",
+        "ambedkar.txt",
+        "speech6.txt"
+      ],
+      "answer": "Based on the provided context, Dr. B.R. Ambedkar in Document 5 did not express a viewpoint on the unity of India specifically. However, his focus was on addressing societal issues such as caste discrimination and the struggle for rights of the untouchables. The quote about the annihilation of caste indicates that he believed in a radical solution to tackle these deep-rooted problems within Indian society.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 17,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech6.txt",
+        "speech6.txt",
+        "ambedkar.txt"
+      ],
+      "answer": "In Document 6, Dr. B.R. Ambedkar proposes the solution of annihilation of caste as a means to address the problem faced by the Untouchables. He suggests that the Untouchables must fight for their rights and work towards abolishing the caste system entirely to ensure equality and justice for all members of Indian society.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 18,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech3.txt",
+        "speech3.txt",
+        "speech1.txt"
+      ],
+      "answer": "In Document 1, the \"enemy\" refers to the potential tyranny of the majority that can exploit or oppress minorities. The Constitution is seen as a means to protect against this enemy by enforcing rights such as freedom, equality, and constitutional remedies.\n\nIn Document 6, the \"enemy\" is the belief in the shastras (ancient religious texts or laws) that perpetuates caste discrimination. The author suggests that despite efforts to reform society, this deep-rooted belief continues to be a persistent issue, similar to a tree's roots that are difficult to eradicate completely.\n\nBoth documents depict the enemy as an ideological construct that needs to be addressed for societal progress and protection of marginalized groups. However, while Document 1 focuses on political and legal structures, Document 6 emphasizes the role of cultural beliefs and traditions in perpetuating social inequality.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 19,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech5.txt",
+        "speech2.txt"
+      ],
+      "answer": "In Document 2, Dr. Ambedkar states that the Hindu-Muslim problem is a problem of nationalities, implying that Hindus and Muslims are more like separate nations rather than communities due to their differences in religion, culture, language, and historical backgrounds. However, he does not explicitly discuss his views on religion itself in this document.\n\nIn Document 5, Ambedkar presents The Buddha's Dhamma as the only religion that could potentially form a society of free and equal men, emphasizing its social nature as a code of moral conduct for society. Here, he seems to suggest a positive view towards a specific form of religion (Buddhism) in terms of fostering equality and unity among people.\n\nIn summary, while Document 2 does not provide explicit insights into Ambedkar's views on religion, it discusses the issue from a nationalistic perspective focusing on religious differences between Hindus and Muslims. On the other hand, Document 5 shows Ambedkar endorsing Buddhism as a means to establish a society of free and equal individuals.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 20,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech6.txt",
+        "ambedkar.txt",
+        "speech4.txt"
+      ],
+      "answer": "In Dr. B.R. Ambedkar's philosophy, education plays a crucial role in the process of liberation for marginalized communities, particularly the untouchables. Education empowers individuals by providing them with knowledge, critical thinking skills, and self-confidence to challenge societal norms and fight against discrimination.\n\nBy gaining an education, Ambedkar was able to become a prominent leader in India's struggle for independence and later a key figure in the fight against caste discrimination. He believed that education was essential in breaking down the barriers of untouchability and providing equal opportunities for all members of society. Through education, the untouchables could assert their rights, demand social justice, and ultimately strive towards annihilation of caste as a means to achieve true liberation.\n\nIn Ambedkar's words: \"Education cannot mean much to the untouchable unless it becomes his weapon for fighting against the tyranny of the caste system.\" By emphasizing the importance of education in his philosophy, Ambedkar encouraged marginalized communities to fight for their rights and work towards a more equitable society.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 21,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech2.txt",
+        "speech6.txt"
+      ],
+      "answer": "Dr. B.R. Ambedkar was born in the year 1891.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 22,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech6.txt",
+        "speech6.txt",
+        "speech4.txt"
+      ],
+      "answer": "According to Document 4, the untouchables faced several specific restrictions. They were denied the right to education, the right to property, and were condemned to do menial work. Additionally, they were forced to live outside the village, and in their everyday lives, they experienced humiliation, insults, and injustices.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 23,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech3.txt",
+        "speech6.txt",
+        "speech3.txt"
+      ],
+      "answer": "In Document 3, Dr. Ambedkar defines social democracy as a way of life that acknowledges liberty, equality, and fraternity as the guiding principles.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 24,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech3.txt",
+        "ambedkar.txt",
+        "speech3.txt"
+      ],
+      "answer": "In Document 3, Dr. B.R. Ambedkar views the Constitution as a vehicle of liberty, equal opportunity, and justice. He emphasizes that it is not just a lawyers' document but serves as a tool for preserving individual freedoms and protecting minorities from the tyranny of the majority.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 25,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech5.txt",
+        "ambedkar.txt",
+        "speech5.txt"
+      ],
+      "answer": "In Document 5, Ambedkar characterizes the Hindu-Muslim problem as fundamentally a problem of nationalities. He views Hindus and Muslims not just as communities but as two separate nations with distinct religions, cultures, languages, and historical backgrounds. According to him, Muslims have a consciousness of being a separate nation and desire their own homeland and national state due to their inability to live under Hindu domination. Consequently, he suggests that the creation of Pakistan is inevitable for them.",
+      "groundtruth": ""
+    }
+  ],
+  "medium": [
+    {
+      "question_id": 1,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech1.txt",
+        "speech6.txt",
+        "speech1.txt"
+      ],
+      "answer": "The real remedy for the caste system, according to Document 1, is the annihilation or overthrowing of the authority of the shastras (scriptures), as they are considered the root cause of the problem. The belief in their sanctity and infallibility perpetuates the caste system, making it difficult for people to challenge or get rid of it. The ideal society would be based on liberty, equality, and fraternity, which can only be realized through the abolition of caste.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 2,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech2.txt",
+        "ambedkar.txt",
+        "speech2.txt"
+      ],
+      "answer": "In Document 2, it is stated that the Buddha was against ritualism and rejected the performance of sacrifices, the authority of the Vedas, the efficacy of prayers, and the usefulness of gods. Instead, he emphasized the law of Karma and taught that every man has the power to shape his own destiny, making man the master of his own fate. This aligns with Ambedkar's interpretation of the Buddha's teachings in this context.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 3,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech3.txt",
+        "ambedkar.txt",
+        "speech2.txt"
+      ],
+      "answer": "The two types of constitutional remedies mentioned by Ambedkar in Document 3 are justiciable fundamental rights and non-justiciable directive principles. Fundamental rights include the right to equality, the right to freedom, the right against exploitation, and the right to constitutional remedies which are necessary to protect minorities from the tyranny of the majority.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 4,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech6.txt",
+        "speech4.txt"
+      ],
+      "answer": "In Document 4, Dr. B.R. Ambedkar describes several personal experiences of untouchability from his childhood. He mentions the humiliation and insults he faced as an untouchable, such as not being allowed to drink water from the public well or enter temples. He also recalls being forced to live outside the village due to his untouchable status. These experiences demonstrate the social exclusion and discrimination that Ambedkar endured due to the caste system in India.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 5,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech5.txt",
+        "speech5.txt",
+        "ambedkar.txt"
+      ],
+      "answer": "In Document 5, Ambedkar believed that the creation of Pakistan was inevitable due to the Muslims having a consciousness of being a separate nation who wanted their own homeland and national state where they could develop according to their own culture and civilization. He perceived that the Muslims could not live under Hindu domination in a united India, as he considered the unity of India to be artificial and created by the British. Ambedkar argued that the partition of India was the only solution to the Hindu-Muslim problem based on these beliefs.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 6,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech2.txt",
+        "speech6.txt"
+      ],
+      "answer": "In Document 6, Ambedkar refers to the Untouchables as \"the broken men\" of Indian society. He calls them this because they were historically oppressed, subjugated, and segregated by the invading Aryans. This discrimination led to the untouchables being denied basic human rights such as education, property ownership, and the right to live within the village. They were forced to perform menial work and were marginalized in Indian society.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 7,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech4.txt",
+        "speech6.txt"
+      ],
+      "answer": "In Document 4, Dr. Ambedkar emphasizes the crucial role of education in empowering him personally to fight against injustice. He describes his own struggles with accessing education due to financial constraints, but notes that it provided him with the strength to confront oppression.\n\nIn Document 6, Ambedkar discusses the historical and social context of untouchability in India. He argues that the untouchables are not a caste, but a class, consisting of the original inhabitants who were subjugated by invading Aryans. He highlights the systematic denial of rights, including the right to education, property, and fair treatment, faced by the untouchables.\n\nWhile both documents highlight the importance of education in overcoming oppression, there is a difference in focus. In Document 4, the emphasis is on personal empowerment through education, whereas in Document 6, Ambedkar discusses the systemic denial of education to an entire social group (the untouchables) and advocates for its redistribution as part of the solution to the problem of untouchability. Ultimately, both documents underscore Ambedkar's belief that education is essential for social mobility and justice.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 8,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech1.txt",
+        "ambedkar.txt",
+        "speech6.txt"
+      ],
+      "answer": "In Documents 1 and 3, Dr. B.R. Ambedkar's concept of an ideal society revolves around the principles of liberty, equality, and fraternity. He envisions a society free from the chains of tradition and caste discrimination, particularly for the untouchables who he considers a class of people rather than a caste.\n\nHe believes that this ideal society can only be realized by the abolition of caste system, which he sees as the root cause of untouchability, discrimination, and social injustice. He encourages the untouchables to fight for their rights, organize themselves, and educate themselves to achieve equality and freedom in society.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 9,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech1.txt",
+        "speech3.txt"
+      ],
+      "answer": "In Document 3, Ambedkar relates political power to social change by stating that political democracy cannot last unless there lies at the base of it social democracy. He defines social democracy as a way of life which recognizes liberty, equality, and fraternity as the principles of life, indicating that these values are essential for long-lasting political democracy.\n\nIn Document 6, Ambedkar refers to social reform work as being similar to pruning a tree without attacking its roots. The \"roots\" in this context can be interpreted as deeply entrenched societal beliefs and structures, particularly the caste system. By implication, Ambedkar suggests that political power is necessary to effect change at the root level (i.e., social change) by challenging and transforming these deeply ingrained societal structures. In other words, political power is a means to achieve social change in Ambedkar's perspective.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 10,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech2.txt",
+        "speech2.txt"
+      ],
+      "answer": "Dr. B.R. Ambedkar's favorite food is not specifically mentioned in the provided context. The excerpts focus on his philosophical and religious beliefs, rather than personal preferences or habits.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 11,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech6.txt",
+        "speech2.txt"
+      ],
+      "answer": "Dr. B.R. Ambedkar visited the United States in 1956, two years before his passing. This trip was significant as it allowed him to address various academic and social organizations, share his thoughts on caste discrimination, and promote the cause of Dalit rights.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 12,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech2.txt",
+        "ambedkar.txt",
+        "speech2.txt"
+      ],
+      "answer": "The Dhamma, as per Document 2 (which appears to be a summary or interpretation of Buddha's teachings), is defined as follows:\n\n1. Avoiding evil: This could refer to abstaining from harmful actions, thoughts, and speech that cause suffering not only for oneself but also for others.\n\n2. Doing good: This involves engaging in actions, thoughts, and speech that are beneficial and promote well-being.\n\n3. Purifying the mind: This emphasizes the importance of mental discipline and spiritual growth to attain peace, wisdom, and enlightenment.\n\nIn summary, the Dhamma is a set of moral principles aimed at guiding individuals toward ethical living, mental purity, and ultimately spiritual awakening. It is essential to note that these interpretations may vary among different Buddhist traditions.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 13,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech1.txt",
+        "speech2.txt"
+      ],
+      "answer": "In Document 1, Ambedkar uses the analogy of gardening to describe social reform. He compares the work of a gardener who prunes leaves and branches without attacking the roots to the work of a reformer who works on societal issues (leaves and branches) but does not address the root cause of the problem, which is the belief in shastras (the roots).",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 14,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech3.txt",
+        "speech6.txt"
+      ],
+      "answer": "In Document 3, Dr. B.R. Ambedkar mentions the following fundamental rights as necessary to protect minorities against the tyranny of the majority:\n\n1. The right to equality\n2. The right to freedom\n3. The right against exploitation\n4. The right to constitutional remedies",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 15,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech4.txt",
+        "speech2.txt"
+      ],
+      "answer": "According to Document 4, Dr. B.R. Ambedkar struggled for education by studying outside his school classroom due to lack of resources, such as sitting under street lights when there was no money for kerosene. Despite these hardships, he remained determined to receive an education and believed that it gave him the strength to fight against injustice.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 16,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech5.txt",
+        "ambedkar.txt",
+        "speech3.txt"
+      ],
+      "answer": "Dr. B.R. Ambedkar did not directly discuss the unity of India specifically in Document 5. However, his overall viewpoint can be understood through other speeches and writings where he emphasized that India's diversity was a strength rather than a weakness, and that it was essential to maintain unity and harmony among all its people. In Document 5, Ambedkar focuses on the constitutional remedies for the protection of minorities, highlighting the importance of fundamental rights to protect them against the tyranny of the majority.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 17,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech6.txt",
+        "speech4.txt",
+        "ambedkar.txt"
+      ],
+      "answer": "In Document 6, Ambedkar proposes the following solutions for the problem of untouchability:\n\n1. Annihilation of caste: This involves breaking down the rigid hierarchy and discrimination based on caste that has long been ingrained in Indian society.\n\n2. Fighting for rights: He encourages the untouchables to stand up against their oppressors, assert their rights, and demand equality.\n\n3. Organizing themselves: Ambedkar advocates for the untouchables to unite and organize themselves into a powerful force that can fight effectively against discrimination and injustice.\n\n4. Education: He emphasizes the importance of education as a key to liberation. He stresses that without education, the untouchables cannot achieve their rightful place in society.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 18,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech3.txt",
+        "speech2.txt",
+        "speech5.txt"
+      ],
+      "answer": "In Document 1, the context does not explicitly mention the concept of 'enemy.' However, the text implies that minorities can be seen as potentially oppressed or marginalized by the majority (tyranny of the majority). This is a metaphorical use of the term 'enemy,' suggesting that minority groups may face adversity or threats to their rights and freedoms.\n\nIn Document 6, the concept of 'enemy' is more direct and literal. The speaker believes that India, as a nation, is an artificial unity created by the British, implying that there might be internal divisions or conflicts (potential enemies within). Furthermore, they advocate for the partition of India as a solution to the Hindu-Muslim problem, which suggests viewing these groups as opposing entities (enemies).\n\nIn both documents, the use of 'enemy' indicates potential conflict or division, but in different contexts: one metaphorical and the other literal.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 19,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech2.txt",
+        "speech5.txt"
+      ],
+      "answer": "In Document 2, Dr. B.R. Ambedkar expresses a critical view towards certain aspects of Hinduism and advocates for the study of Buddhism as a means to understand the essence of life and the nature of gods. He emphasizes the law of Karma and teaches that every individual has the power to shape their own destiny, positioning humans as masters of their fate rather than subservient to divine entities.\n\nIn Document 5, however, Ambedkar's view on religion is not explicitly discussed in relation to Hinduism or Buddhism. Instead, he focuses on the issue of the Hindu-Muslim problem, which he identifies as a matter of nationalities rather than mere religious communities. He describes Hindus and Muslims as having different religions, cultures, languages, and historical backgrounds, implying that these differences have led to a distinct sense of national identity among Muslims. Furthermore, he suggests that the creation of Pakistan is inevitable due to the Muslim community's desire for self-determination and a separate state where they can develop according to their own culture and civic society.\n\nIn summary, while Document 2 discusses Ambedkar's critique of certain aspects of Hinduism and emphasis on human autonomy, Document 5 focuses on the Hindu-Muslim problem as a matter of national identity rather than religion per se.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 20,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech4.txt",
+        "speech4.txt",
+        "ambedkar.txt"
+      ],
+      "answer": "In Ambedkar's philosophy, education plays a significant role as a means of liberation for the untouchables. He strongly believed that education is essential to help the untouchables achieve their rightful place in society and escape the oppression they faced due to their caste status. Education provided him with the strength to fight against the injustices he experienced, giving him knowledge, empowerment, and the ability to challenge the traditional caste system. Ambedkar saw education as a tool for social mobility and a path towards equality and justice.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 21,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech2.txt",
+        "speech6.txt"
+      ],
+      "answer": "Dr. B.R. Ambedkar was born on April 14, 1891.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 22,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech6.txt",
+        "speech4.txt",
+        "speech6.txt"
+      ],
+      "answer": "According to Document 4, the untouchables faced several restrictions such as:\n1. They were denied the right to education.\n2. They were denied the right to property.\n3. They were forced to do menial work.\n4. They were not allowed to drink water from public wells.\n5. They were not allowed to enter temples.\n6. They were forced to live outside the village.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 23,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech3.txt",
+        "speech1.txt",
+        "ambedkar.txt"
+      ],
+      "answer": "In Document 3, Ambedkar defines social democracy as a way of life which recognizes liberty, equality, and fraternity as the principles of life.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 24,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech3.txt",
+        "speech3.txt"
+      ],
+      "answer": "In Document 3, Dr. B.R. Ambedkar emphasizes that the Constitution is not just a lawyers' document but a \"vehicle of life.\" He states that the Constitution must provide for both economic democracy and political democracy. According to him, social democracy forms the base for political democracy, which he defines as a way of life that recognizes liberty, equality, and fraternity as its principles.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 25,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech5.txt",
+        "ambedkar.txt",
+        "speech5.txt"
+      ],
+      "answer": "In Document 5, Ambedkar characterizes the Hindu-Muslim problem as a fundamental issue of nationalities rather than communal issues. He views Hindus and Muslims not just as communities but as two distinct nations due to their differences in religion, culture, language, and historical backgrounds. According to Ambedkar, Muslims have a separate national consciousness and desire their own homeland and national state, making the creation of Pakistan inevitable for them to develop according to their own culture and civilization. Furthermore, he believes that the unity of India is artificial, created by the British, and that the partition of India is the only solution to the Hindu-Muslim problem.",
+      "groundtruth": ""
+    }
+  ],
+  "large": [
+    {
+      "question_id": 1,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech1.txt",
+        "speech6.txt",
+        "speech1.txt"
+      ],
+      "answer": "According to Document 1, the real remedy for the caste system lies in overthrowing the authority of the shastras (ancient scriptures) that are considered sacred and infallible. The author argues that as long as people believe in the sanctity of these scriptures, they will never be able to get rid of caste because it is a problem of belief rather than social reform. The work of overthrowing the authority of the shastras is seen as the real solution to the problem of caste, not just social reform.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 2,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech2.txt",
+        "ambedkar.txt",
+        "speech6.txt"
+      ],
+      "answer": "In Document 2, Ambedkar mentions that the Buddha was against ritualism and condemned the performance of sacrifices. He rejected the authority of the Vedas and denied the efficacy of prayers. This suggests that Ambedkar is aligning the Buddha's views with those expressed by Dr. B.R. Ambedkar, who also criticized rituals and traditional religious texts like the Vedas.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 3,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech3.txt",
+        "speech6.txt"
+      ],
+      "answer": "In Document 3, Ambedkar mentions two types of constitutional remedies for the protection of minorities: First, fundamental rights which are justiciable; Second, directive principles which are not justiciable.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 4,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech6.txt",
+        "speech4.txt"
+      ],
+      "answer": "In Document 4, Dr. B.R. Ambedkar describes several personal experiences of untouchability he faced from his childhood. He mentions being denied the right to drink water from public wells, being prohibited from entering temples, and being forced to live outside villages due to the stigma associated with being an untouchable. These experiences highlight the societal humiliation, insults, and injustices that the untouchables faced during Ambedkar's time.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 5,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech5.txt",
+        "ambedkar.txt",
+        "speech6.txt"
+      ],
+      "answer": "Dr. B.R. Ambedkar believes that the creation of Pakistan is inevitable due to what he perceives as a fundamental difference between Hindus and Muslims, who he considers not just as religious communities but as separate nations with distinct religions, cultures, languages, and historical backgrounds. He also believes that the Muslims have a strong consciousness of being a separate nation and aspire for their own homeland and national state to develop according to their own culture and civilization. Ambedkar argues that under Hindu domination, it is impossible for the Muslims to live, implying that a separate state (Pakistan) is necessary for them to flourish.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 6,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech6.txt",
+        "speech2.txt"
+      ],
+      "answer": "In Document 6, Ambedkar refers to the Untouchables as 'broken men'. This is because they were originally the original inhabitants of India who were defeated and subjugated by the invading Aryans. As a result, they were forced to live outside the village, denied the right to education, property, and condemned to do menial work. Thus, Ambedkar refers to them as 'broken' due to their marginalized and oppressed status in Indian society.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 7,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech4.txt",
+        "speech6.txt"
+      ],
+      "answer": "In Document 4, Dr. B.R. Ambedkar emphasizes that education is crucial for the liberation of the untouchables, as it empowers them to fight against social injustices they have faced due to their caste status. He highlights his own struggles to receive education despite being born in an untouchable community and facing numerous obstacles such as lack of access to schools, financial difficulties, and societal discrimination.\n\nIn Document 6, Ambedkar reinforces his belief that education is vital for the emancipation of the untouchables but also expands on its role by describing them as a socially oppressed class rather than just a caste. He stresses that the solution to the problem of untouchability lies in the annihilation of caste, which requires political power and organized efforts from the untouchable community.\n\nIn both documents, Ambedkar emphasizes education's transformative power in helping the untouchables achieve their rightful place in society and fight against social injustice. However, in Document 6, he expands on the importance of organization, political power, and the annihilation of caste as necessary for the emancipation of the untouchables.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 8,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech1.txt",
+        "speech3.txt"
+      ],
+      "answer": "Ambedkar's concept of an ideal society, as per Documents 1 and 3, is one that promotes liberty, equality, and fraternity. He envisions a society free from caste discrimination, where everyone is equal and has the freedom to live without being slaves to others. This ideal can only be realized through the abolition of caste.\n\nHe also emphasizes the importance of economic democracy alongside political democracy, suggesting that an ideal society should ensure social justice and recognize these principles as the foundation of life. In other words, Ambedkar's vision is for a society where all individuals are treated equally, have access to fundamental rights, and live with fraternal relationships, free from exploitation or discrimination based on caste.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 9,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech3.txt",
+        "speech6.txt"
+      ],
+      "answer": "In Documents 3 and 6, Dr. B.R. Ambedkar emphasizes the importance of political power for social change. In Document 3, he states that political democracy cannot last unless there lies at the base of it social democracy. He defines social democracy as a way of life which recognizes liberty, equality, and fraternity as the principles of life. This suggests that social democracy is necessary for achieving these principles, and political power is essential to establish and maintain this form of society.\n\nIn Document 6, Ambedkar discusses the problem of untouchability and its solution. He argues that the emancipation of the untouchables is impossible without political power. He encourages them to organize themselves, educate their children, enter government services, and use political power to protect their interests. This indicates that political power is a crucial tool for the untouchables to fight against discrimination and achieve social change.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 10,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech2.txt",
+        "speech1.txt"
+      ],
+      "answer": "Dr. B.R. Ambedkar's writings and speeches do not provide information about his favorite food. The excerpt provided above focuses on his views regarding Buddhism, social equality, and the caste system, rather than personal preferences like food choices.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 11,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech5.txt",
+        "speech6.txt"
+      ],
+      "answer": "Dr. B.R. Ambedkar visited the United States in 1956, more than a decade after India gained independence from British rule. During his visit, he delivered several lectures and met with various American dignitaries to discuss issues related to caste, untouchability, and the socio-political situation in India.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 12,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech2.txt",
+        "ambedkar.txt",
+        "speech6.txt"
+      ],
+      "answer": "According to the text provided in Document 2, Dhamma refers to a social code of moral conduct centered around avoiding evil, doing good, and purifying the mind. This teaching is said to be the same as that of all Buddhas. It's important to note that this interpretation of Dhamma is specific to Buddhism, and it might differ from other understandings or usages of the term in various religious or cultural contexts.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 13,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech1.txt",
+        "speech6.txt"
+      ],
+      "answer": "In Document 1, Ambedkar compares social reform to the work of a gardener who is constantly pruning the leaves and branches of a tree without ever attacking the roots. He implies that traditional methods of social reform are ineffective because they don't address the underlying problem, which is the belief in the sanctity of the shastras (scriptures). Instead, he suggests that the real enemy is this belief itself, and that it must be directly addressed to bring about meaningful change.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 14,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech3.txt",
+        "speech6.txt"
+      ],
+      "answer": "In Document 3, Ambedkar mentions the following fundamental rights that are necessary to protect minorities against the tyranny of the majority:\n\n1. The right to equality (probably referring to Article 14-18 of the Indian Constitution)\n2. The right to freedom (possibly referring to Articles 19-22)\n3. The right against exploitation (likely referring to Articles 23 and 24 of the Indian Constitution)\n4. The right to constitutional remedies (implied but not explicitly stated, however, it is encompassed in the overall concept of fundamental rights)",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 15,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech4.txt",
+        "speech6.txt"
+      ],
+      "answer": "According to Document 4, Dr. B.R. Ambedkar struggled for education despite facing numerous obstacles as a member of the untouchable community. He went to school sitting outside the classroom and studied under street lights when he had no money for kerosene. His determination to get educated gave him the strength to fight against injustice.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 16,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech3.txt",
+        "speech5.txt"
+      ],
+      "answer": "In Document 5, Dr. B.R. Ambedkar states that the unity of India is artificial and was created by the British. He also suggests that before the British, India was never united. Furthermore, he believes that the partition of India is the only solution to the Hindu-Muslim problem.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 17,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech6.txt",
+        "ambedkar.txt",
+        "speech4.txt"
+      ],
+      "answer": "Ambedkar proposes several solutions for the untouchables as outlined in Document 6. He emphasizes the need for the annihilation of caste, which he believes is essential to solve the problem of untouchability. He encourages the untouchables to fight for their rights and organize themselves. Additionally, Ambedkar suggests that the untouchables should educate their children, enter government services, and use political power to protect their interests. He strongly believes that emancipation of the untouchables is impossible without political power.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 18,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech3.txt",
+        "ambedkar.txt",
+        "speech2.txt"
+      ],
+      "answer": "In Document 1, the concept of an \"enemy\" is not explicitly mentioned, but it can be inferred that the minorities might face tyranny from the majority if their rights are not protected. This is implied through the need for fundamental rights like right to equality, freedom, and constitutional remedies.\n\nIn Document 6, the concept of an \"enemy\" is also not explicitly mentioned, but it can be inferred that the Buddha's teachings discourage negative actions (evil) and emphasize self-improvement (doing good and purifying the mind). In this context, one could argue that the 'enemy' might be one's own negative actions or thoughts that lead to suffering.\n\nHowever, it's important to note that these are interpretations based on the provided texts and may not fully capture the original intentions of the authors. For a more accurate comparison, a detailed analysis considering the historical, social, and cultural context in which these texts were written would be necessary.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 19,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech2.txt",
+        "speech5.txt"
+      ],
+      "answer": "In Document 2, Ambedkar expresses a critical view towards traditional Hinduism, focusing on its rituals, sacrifices, Vedas, prayers, gods, and the caste system. He emphasizes that these elements are not essential for spiritual growth and instead advocates for a more ethical and self-determined approach to life, which he refers to as \"Dhamma.\" This Dhmma involves avoiding evil, doing good, and purifying one's mind.\n\nIn Document 5, Ambedkar addresses the issue of religious differences between Hindus and Muslims in the context of Indian nationalism. Here, he does not explicitly discuss traditional Hindu practices but instead highlights the distinct identities of the two communities based on their religions, cultures, languages, and historical backgrounds. He also acknowledges the Muslim desire for a separate homeland (Pakistan) due to their feeling of being a separate nation and their inability to live under Hindu domination. In this context, Ambedkar seems more focused on political solutions to religious tensions rather than critiquing specific religious practices or beliefs as he did in Document 2.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 20,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech4.txt",
+        "ambedkar.txt",
+        "speech6.txt"
+      ],
+      "answer": "In Ambedkar's philosophy, education plays a crucial role as a means of liberation for the untouchables (also known as Dalits). By gaining knowledge, they can challenge the social hierarchy and the stigma associated with their caste, thus fighting against injustice. Education empowers them by providing the strength to assert their rights and demands for equality within society. It is seen as a key tool for breaking free from the cycle of poverty and discrimination that they have been subjected to historically.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 21,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech5.txt",
+        "speech6.txt"
+      ],
+      "answer": "Dr. B.R. Ambedkar was born on April 14, 1891.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 22,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech6.txt",
+        "speech4.txt",
+        "speech3.txt"
+      ],
+      "answer": "According to Document 4, the untouchables faced several specific restrictions:\n1. They were forced to live outside the village.\n2. Denied the right to education.\n3. Denied the right to property.\n4. Condemned to do menial work.\n5. They were not allowed to drink water from public wells.\n6. They were not allowed to enter temples.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 23,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech3.txt",
+        "ambedkar.txt",
+        "speech6.txt"
+      ],
+      "answer": "In Document 3, Dr. B.R. Ambedkar defines social democracy as a way of life which recognizes liberty, equality, and fraternity as the principles of life.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 24,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "ambedkar.txt",
+        "speech3.txt",
+        "speech1.txt"
+      ],
+      "answer": "In Document 3, Ambedkar states that the Constitution is not just a lawyers' document but a vehicle of life, and its spirit is always the spirit of the age. He emphasizes the need for both political democracy and economic democracy. He also explains that social democracy means a way of life which recognizes liberty, equality, and fraternity as the principles of life. Furthermore, he stresses that these ideals can be realized only through the abolition of caste.",
+      "groundtruth": ""
+    },
+    {
+      "question_id": 25,
+      "retrieval_metrics": {
+        "hit_rate": 0,
+        "reciprocal_rank": 0,
+        "precision_k": 0
+      },
+      "answer_metrics": {
+        "rougeL": 0.0,
+        "bleu": 0.0,
+        "cosine_similarity": 0.0
+      },
+      "retrieved_docs": [
+        "speech5.txt",
+        "ambedkar.txt",
+        "speech6.txt"
+      ],
+      "answer": "According to Dr. B.R. Ambedkar, as portrayed in Document 5, the Hindu-Muslim problem is fundamentally a matter of nationalities. He views Hindus and Muslims not just as communities but as two separate nations due to their different religions, cultures, languages, and historical backgrounds. Ambedkar also suggests that the Muslims have a distinct consciousness of being a separate nation and aspire for their own homeland or national state, away from Hindu domination. He further argues that the unity of India is artificial, having been created by the British, and that the partition of India is the only solution to the Hindu-Muslim problem.",
+      "groundtruth": ""
+    }
+  ]
+}
