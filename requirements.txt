@@ -1,10 +1,20 @@
-langchain
-langchain-community
-langchain-core
-langchain-text-splitters
-chromadb
+# Core ML and RAG stack
 sentence-transformers
-transformers
-numpy
-pydantic
-typing_extensions
+chromadb
+
+# LLM integration (for HTTP requests to Ollama, required for Mistral)
+requests
+
+# NLP evaluation metrics
+rouge-score
+nltk
+scikit-learn
+
+# Advanced RAG evaluation (optional: frameworks like "ragas" make some metrics easier; include if using)
+ragas
+
+# If using additional tools or frameworks:
+# pip install ragas  # for advanced, LLM-based evaluation metrics (optional)
+
+# Minimum Python version
+# python_version >= 3.8

@@ -1,0 +1,1 @@
+AmbedkarGPT is a lightweight RAG project answering questions about Dr. B.R. Ambedkar's speeches.
