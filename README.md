@@ -38,7 +38,7 @@ I enjoy working on **practical AI projects**, optimizing pipelines, deploying AP
 
 **Languages**
 - Python
-- 
+
 **AI / ML**
 - LangChain  
 - HuggingFace Transformers  
